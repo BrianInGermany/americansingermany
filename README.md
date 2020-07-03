@@ -7,3 +7,5 @@ The Rhine-Main Area is currently the largest user base of this group, but it is 
 Meet new American friends and create group chats about topics you're interested in, or for your local area!
 
 The possibilities are endless.
+
+For help, email [brian@americansingermany.club](mailto:brian@americansingermany.club)
