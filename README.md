@@ -10,6 +10,6 @@ Share the site with your friends. The possibilities are endless :)
 
 See you in Slack!
 
-![flag](https://americansingermany.club/american-flag.jpg)
+<img src="american-flag.jpg" alt="flag" width="100%">
 
 For help, email [brian@americansingermany.club](mailto:brian@americansingermany.club)
