@@ -1,4 +1,4 @@
-## Welcome 
+## Welcome Americans and Friends!
 
 Go to [join.americansingermany.club](http://join.americansingermany.club) to get involved with events for Americans across the country.
 
