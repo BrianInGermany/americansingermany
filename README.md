@@ -13,7 +13,7 @@ If you need to get your bearings in Slack, try this [how-to](https://www.digital
 Here is a quick summary of how this Slack works:
 - Post a hello message in the #general channel to introduce yourself
 - Think about joining one of the existing channels for individual regions and cities.
-- Or start your own, and invite new friends with the invite link .
+- Or start your own, and invite new friends with the [invite link](http://join.americansingermany.club).
 
 See you in Slack!
 
