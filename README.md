@@ -15,6 +15,8 @@ Here is a quick summary of how this Slack works:
 - Think about joining one of the existing channels for individual regions and cities.
 - Or start your own, and invite new friends with the [invite link](http://join.americansingermany.club).
 
+__Deutschsprachige sind auch herzlich willkommen. Viele von uns sprechen auch gerne Deutsch.__
+
 See you in Slack!
 
 <a href="http://join.americansingermany.club"><img src="/american-flag.jpg" alt="flag" width="100%"></a>
