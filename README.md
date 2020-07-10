@@ -21,4 +21,5 @@ See you in Slack!
 
 <a href="http://join.americansingermany.club"><img src="/american-flag.jpg" alt="flag" width="100%"></a>
 
-For help, email [brian@americansingermany.club](mailto:brian@americansingermany.club)
+For help, email [brian@americansingermany.club](mailto:brian@americansingermany.club)  
+Slack URL: [americansingermany.slack.com](https://americansingermany.slack.com)
