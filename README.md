@@ -1,6 +1,6 @@
 ## Welcome Americans and Friends!
 
-Go to [join.americansingermany.club](http://join.americansingermany.club) to get involved with events for liberally inclined Americans across the country.
+Go to [join.americansingermany.club](http://join.americansingermany.club) to get involved with events for Americans across the country.
 
 We are currently a "klein aber fein" collection of folks, but we're growing by the day!
 
