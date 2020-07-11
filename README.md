@@ -11,6 +11,7 @@ Share the site with your friends, organize events. The possibilities are endless
 If you need to get your bearings in Slack, try this [how-to](https://www.digitaltrends.com/computing/how-to-use-slack/)!
 
 Here is a quick summary of how this Slack works:
+- [Sign up](http://join.americansingermany.club) for account on Slack
 - Post a hello message in the #general channel to introduce yourself
 - Think about joining one of the existing channels for individual regions and cities.
 - Or start your own, and invite new friends with the [invite link](http://join.americansingermany.club).
