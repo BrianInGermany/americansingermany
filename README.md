@@ -1,6 +1,6 @@
 ## Welcome Americans and Friends!
 
-Go to [join.americansingermany.club](http://join.americansingermany.club) to network and socialize with Americans across the country.
+Go to <a href="http://join.americansingermany.club>"<button type="button" onclick="alert('Redirecting to Slack')">join.americansingermany.club</button></a> to network and socialize with Americans across the country.
 
 We are currently a "klein aber fein" collection of folks, but we're growing by the day! Our core user base is currently Rhein-Main.
 
