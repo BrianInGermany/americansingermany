@@ -24,7 +24,7 @@ See you in Slack!
 
 <iframe id="open-web-calendar" 
     style="background:url('https://raw.githubusercontent.com/niccokunzmann/open-web-calendar/master/static/img/loaders/circular-loader.gif') center center no-repeat;"
-    src="https://open-web-calendar.herokuapp.com/calendar.html?url=https%3A%2F%2Fwww.meetup.com%2FAmericans-in-Germany%2Fevents%2Fical%2F&amp;title=Event%20Calendar&amp;target=_blank"
+    src="https://open-web-calendar.herokuapp.com/calendar.html?url=https%3A%2F%2Fwww.meetup.com%2FAmericans-in-Germany%2Fevents%2Fical%2F&amp;title=Event%20Calendar&amp;target=_blank&amp;controls=next&amp;controls=previous&amp;controls=date&amp;tabs=month"
     sandbox="allow-scripts allow-same-origin allow-popups"
     allowTransparency="true" scrolling="no" 
     frameborder="0" height="600px" width="100%"></iframe>
