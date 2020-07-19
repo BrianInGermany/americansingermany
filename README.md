@@ -20,4 +20,11 @@ _Deutschsprachige sind auch herzlich willkommen. Viele von uns sprechen auch ger
 
 See you in Slack!
 
-<a href="http://join.americansingermany.club"><img src="/american-flag.jpg" alt="flag" width="100%"></a>
+<img src="/american-flag.jpg" alt="flag" width="100%">
+
+<iframe id="open-web-calendar" 
+    style="background:url('https://raw.githubusercontent.com/niccokunzmann/open-web-calendar/master/static/img/loaders/circular-loader.gif') center center no-repeat;"
+    src="https://open-web-calendar.herokuapp.com/calendar.html?url=https%3A%2F%2Fwww.meetup.com%2FAmericans-in-Germany%2Fevents%2Fical%2F&amp;title=Event%20Calendar&amp;target=_blank"
+    sandbox="allow-scripts allow-same-origin allow-popups"
+    allowTransparency="true" scrolling="no" 
+    frameborder="0" height="600px" width="100%"></iframe>
