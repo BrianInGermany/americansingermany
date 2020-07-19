@@ -11,10 +11,10 @@ Share the site with your friends, organize events. The possibilities are endless
 If you need to get your bearings in Slack, try this [how-to](https://www.digitaltrends.com/computing/how-to-use-slack/)!
 
 Here is a quick summary of how this Slack works:
-- <a href="http://join.americansingermany.club" onclick="alert('Redirecting to Slack!')">Sign up</a> for account on this Slack
+- <a href="http://join.americansingermany.club">Sign up</a> for account on this Slack
 - Post a hello message in the #general channel to introduce yourself
 - Think about joining one of the existing channels for individual regions and cities.
-- Or start your own, and invite new friends with the <a href="http://join.americansingermany.club" onclick="alert('Redirecting to Slack!')">invite link</a>.
+- Or start your own, and invite new friends with the <a href="http://join.americansingermany.club">invite link</a>.
 
 _Deutschsprachige sind auch herzlich willkommen. Viele von uns sprechen auch gerne Deutsch._
 
