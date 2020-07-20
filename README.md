@@ -13,6 +13,7 @@ If you need to get your bearings in Slack, try this [how-to](https://www.digital
 Here is a quick summary of how this Slack works:
 - <a href="http://join.americansingermany.club">Sign up</a> for account on this Slack
 - Post a hello message in the #general channel to introduce yourself
+- Be sure to set your notification preferences to "Direct Messages, Keywords and @-Mentions Only". This way you are only notified if some is talking to you directly. I'm current trying to make this the default setting.
 - Think about joining one of the existing channels for individual regions and cities.
 - Or start your own, and invite new friends with the <a href="http://join.americansingermany.club">invite link</a>.
 
