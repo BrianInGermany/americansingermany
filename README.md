@@ -2,7 +2,7 @@
 
 Go to <a href="http://join.americansingermany.club">join.americansingermany.club</a> to network and socialize with Americans in your area.
 
-We are currently a "klein aber fein" collection of folks, but we're growing by the day! Our core user base is currently Rhein-Main.
+We are currently a "klein aber fein" collection of folks, but we're growing by the day! Our core user base is Rhein-Main.
 
 Meet new American friends and create group chats about topics you're interested in, or for your own local area!
 
@@ -14,8 +14,7 @@ Here is a quick summary of how this Slack works:
 - <a href="http://join.americansingermany.club">Sign up</a> for account on this Slack
 - Post a hello message in the #general channel to introduce yourself
 - Be sure to set your notification preferences to "Direct Messages, Keywords and @-Mentions Only". This way you are only notified if some is talking to you directly. I'm currently trying to make this the default setting.
-- Think about joining one of the existing channels for individual regions and cities.
-- Or start your own, and invite new friends with the <a href="http://join.americansingermany.club">invite link</a>.
+- Think about joining one of the channels for individual cities, like #darmstadt.
 - If you want to meet folks fast, join the #chat-roulette channel, and be randomly matched in 4-way chats once a week.
 
 _Deutschsprachige sind auch herzlich willkommen. Viele von uns sprechen auch gerne Deutsch._
