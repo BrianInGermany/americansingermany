@@ -2,7 +2,7 @@
 
 Go to <a href="http://join.americansingermany.club">join.americansingermany.club</a> to network and socialize with Americans in your area.
 
-We are currently a "klein aber fein" collection of folks, but we're growing by the day! Our core user base is Rhein-Main.
+We are currently a "klein aber fein" collection of folks, but we're growing by the day! Our core user base is currently Rhein-Main (Frankfurt and surroundings).
 
 Meet new American friends and create group chats about topics you're interested in, or for your own local area!
 
