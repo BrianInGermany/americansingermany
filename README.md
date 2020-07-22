@@ -4,7 +4,7 @@ Go to <a href="http://join.americansingermany.club">join.americansingermany.club
 
 We are currently a "klein aber fein" collection of folks, but we're growing by the day! Our core user base is currently Rhein-Main (Frankfurt and surroundings).
 
-Meet new American friends and create group chats about topics you're interested in, or for your own local area!
+Meet new friends and create group chats about topics you're interested in, or for your own local area!
 
 Share the site with your friends, organize events. The possibilities are endless :)
 
