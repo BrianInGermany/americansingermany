@@ -1,4 +1,4 @@
-## Welcome Americans and Friends!
+## Welcome Americans and Friends Thereof!
 
 Go to <a href="http://join.americansingermany.club">join.americansingermany.club</a> to network and socialize with Americans in your area.
 
