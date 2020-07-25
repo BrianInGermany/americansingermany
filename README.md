@@ -17,7 +17,9 @@ Here is a quick summary of how this Slack works:
 - Think about joining one of the channels for individual cities, like #darmstadt.
 - If you want to meet folks fast, join the #chat-roulette channel, and be randomly matched in 4-way chats once a week.
 
-_Deutschsprachige sind auch herzlich willkommen. Viele von uns sprechen auch gerne Deutsch._
+Community Rules:
+1. Use your common sense.
+2. No Trump fans (see rule number 1)
 
 See you in Slack!
 
