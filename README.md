@@ -21,9 +21,11 @@ If you need to get your bearings in Slack, try this [how-to](https://www.digital
 1. Use your common sense.
 2. No Trump fans (see rule number 1).
 
-See you in Slack!
+**See you in Slack!**
 
 <img src="/american-flag.jpg" alt="flag" width="100%">
+
+## Meetup Calendar
 
 <iframe id="open-web-calendar" 
     style="background:url('https://raw.githubusercontent.com/niccokunzmann/open-web-calendar/master/static/img/loaders/circular-loader.gif') center center no-repeat;"
