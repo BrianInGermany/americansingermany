@@ -1,6 +1,6 @@
 ## Welcome Americans and Friends Thereof!
 
-Go to <a href="http://join.americansingermany.club">join.americansingermany.club</a> to network and socialize with Americans in your area.
+**Go to <a href="http://join.americansingermany.club">join.americansingermany.club</a> to network and socialize with Americans in your area.**
 
 We are currently a "klein aber fein" collection of folks, but we're growing by the day! Our core user base is currently Rhein-Main (Frankfurt and surroundings).
 
@@ -10,14 +10,14 @@ Share the site with your friends, organize events. The possibilities are endless
 
 If you need to get your bearings in Slack, try this [how-to](https://www.digitaltrends.com/computing/how-to-use-slack/)!
 
-Here is a quick summary of how this Slack works:
+**Here is a quick summary of how this Slack works:**
 - <a href="http://join.americansingermany.club">Sign up</a> for account on this Slack
 - Post a hello message in the #general channel to introduce yourself
 - Be sure to set your notification preferences to "Direct Messages, Keywords and @-Mentions Only". This way you are only notified if some is talking to you directly. I'm currently trying to make this the default setting.
 - Think about joining one of the channels for individual cities, like #darmstadt.
 - If you want to meet folks fast, join the #chat-roulette channel, and be randomly matched in 4-way chats once a week.
 
-Community Rules:
+**Community Rules:**
 1. Use your common sense.
 2. No Trump fans (see rule number 1)
 
