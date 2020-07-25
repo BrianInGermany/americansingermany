@@ -19,7 +19,7 @@ If you need to get your bearings in Slack, try this [how-to](https://www.digital
 
 **Community Rules:**
 1. Use your common sense.
-2. No Trump fans (see rule number 1)
+2. No Trump fans (see rule number 1).
 
 See you in Slack!
 
