@@ -2,11 +2,11 @@
 
 **Go to <a href="http://join.americansingermany.club">join.americansingermany.club</a> to network and socialize with Americans in your area.**
 
-We are currently a "klein aber fein" collection of folks, but we're growing by the day! Our core user base is currently Rhein-Main (Frankfurt and surroundings).
+We are currently a "klein aber fein" collection of folks, but we're growing by the day! We are organized on [Slack](http://slack.americansingermany.club) and [Meetup](https://www.meetup.com/Americans-in-Germany/), and our core user base is currently Rhein-Main (Frankfurt and surroundings).
 
 Meet new friends and create group chats about topics you're interested in, or for your own local area!
 
-Share the site with your friends, organize events. The possibilities are endless :)
+Share this site with your friends, organize events. The possibilities are endless :)
 
 If you need to get your bearings in Slack, try this [how-to](https://www.digitaltrends.com/computing/how-to-use-slack/)!
 
