@@ -11,7 +11,7 @@ Share this site with your friends, organize events. The possibilities are endles
 If you need to get your bearings in Slack, try this [how-to](https://www.digitaltrends.com/computing/how-to-use-slack/)!
 
 **Here is a quick summary of how this Slack works:**
-- <a href="http://join.americansingermany.club">Sign up</a> for an account on this Slack.
+- Sign up for an account on this Slack via the join link at the top of the page.
 - Post a hello message in the #general channel to introduce yourself.
 - Be sure to set your notification preferences to "Direct Messages, Keywords and @-Mentions Only". This way you are only notified if some is talking to you directly. I'm currently trying to make this the default setting.
 - Think about joining one of the channels for individual cities, like #darmstadt.
@@ -23,7 +23,7 @@ If you need to get your bearings in Slack, try this [how-to](https://www.digital
 
 **See you in Slack!**
 
-<a href="http://join.americansingermany.club"><img src="/american-flag.jpg" alt="flag" width="100%"></a>
+<img src="/american-flag.jpg" alt="flag" width="100%">
 
 ## Meetup Calendar
 
