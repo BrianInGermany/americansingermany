@@ -23,7 +23,7 @@ If you need to get your bearings in Slack, try this [how-to](https://www.digital
 
 **See you in Slack!**
 
-<img src="/american-flag.jpg" alt="flag" width="100%">
+<img src="/usFlagOld.jpg" alt="flag" width="100%">
 
 ## Meetup Calendar
 
