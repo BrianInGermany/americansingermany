@@ -1,6 +1,6 @@
 ## Welcome Americans and Friends!
 
-**Go to <a href="http://join.americansingermany.club">join.americansingermany.club</a> to network and socialize with Americans in your area.**
+**Go to <a href="http://join.americansingermany.club">http://join.americansingermany.club</a> to network and socialize with Americans in your area.**
 
 We are currently a "klein aber fein" collection of folks, but we're growing by the day! We are organized on [Slack](http://slack.americansingermany.club) and [Meetup.com](https://www.meetup.com/Americans-in-Germany/), and our core user base is currently Rhein-Main (Frankfurt and surroundings).
 
