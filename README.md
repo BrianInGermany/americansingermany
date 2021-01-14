@@ -15,7 +15,7 @@ If you need to get your bearings in Slack, try this [how-to](https://www.digital
 - Post a hello message in the #general channel to introduce yourself.
 - Think about joining one of the channels for individual cities, like #berlin.
 - If you want to meet folks fast, join the #chat-roulette channel, and be randomly matched in 4-way chats once a week.
-- Tip: there is also a [desktop app](https://slack.com/downloads/windows)
+- Tip: there are also desktop apps for [windows](https://slack.com/downloads/windows), [mac](https://slack.com/downloads/mac) and [linux](https://slack.com/downloads/linux)
   
 **Community Rules:**
 1. Use your common sense.
