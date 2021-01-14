@@ -13,9 +13,10 @@ If you need to get your bearings in Slack, try this [how-to](https://www.digital
 **Here is a quick summary of how this Slack works:**
 - Sign up for an account on this Slack via the join link at the top of the page.
 - Post a hello message in the #general channel to introduce yourself.
-- Think about joining one of the channels for individual cities, like #darmstadt.
+- Think about joining one of the channels for individual cities, like #berlin.
 - If you want to meet folks fast, join the #chat-roulette channel, and be randomly matched in 4-way chats once a week.
-
+- Tip: there is also a [desktop app](https://slack.com/downloads/windows)
+  
 **Community Rules:**
 1. Use your common sense.
 2. No Trump fans (see rule number 1).
