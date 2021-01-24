@@ -12,10 +12,10 @@
 - [#foodies](https://americansingermany.slack.com/archives/C01JXTJ6FJP)
 - [#politics](https://americansingermany.slack.com/archives/C01KSMS49AM)
 - [#pet-pics](https://americansingermany.slack.com/archives/C01K47G78E8)
-- [#beer](https://americansingermany.slack.com/archives/C01LAC8E99N)
+- [#beer-banter](https://americansingermany.slack.com/archives/C01LAC8E99N)
 - [#buy-sell-give](https://americansingermany.slack.com/archives/C01L1UEE0AV)
 - [#show-and-tell](https://americansingermany.slack.com/archives/C01KGGH0KHU)
-  - Share your blog, vlog, artwork, music, creative stuff, etc!
+  - Share your blog, vlog, artwork, music, creative stuff, etc.
   
 ### Location Channels
 - [#frankfurt](https://americansingermany.slack.com/archives/C016E0TAZHT)
