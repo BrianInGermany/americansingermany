@@ -33,3 +33,6 @@
 ### Other Channels
 - [#chat-roulette](https://americansingermany.slack.com/archives/C017AUQHKDX)
   - Join channel to be auto-matched in four-way chats once a week. You will be asked every Friday if you want to participate on Monday.
+
+### Note
+- You must have an account on our Slack for these links to work, as the link directly to the respective channels. Join via [http://join.americansingermany.club](http://join.americansingermany.club])
