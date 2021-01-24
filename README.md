@@ -8,7 +8,7 @@ Meet new friends and join group chats about topics you're interested in, or for 
 
 **What is Slack?**
 
-If you've never used it, Slack is a messaging app for smartphone and computer (also can run in browser) that combines the spontaneity of a WhatsApp or Facebook group with the organizational advantages of a forum. All members are added to the #general channel on joining, and there are subchannels for topic-specific conversations and for local areas. Here is a [list of our current channels](https://americansingermany.club/channel_list).
+If you've never used it, Slack is a messaging app for smartphone and computer that combines the spontaneity of a WhatsApp or Facebook group with the organizational advantages of a forum. All members are added to the #general channel on joining, and there are subchannels for topic-specific conversations and for local areas. Here is a [list of our current channels](https://americansingermany.club/channel_list).
 
 - If you need to get your bearings, try this [Slack how-to](https://www.digitaltrends.com/computing/how-to-use-slack/)!
 
