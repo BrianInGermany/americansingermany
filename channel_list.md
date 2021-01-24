@@ -28,4 +28,4 @@
 
 ### Other Channels
 - [#chat-roulette](https://americansingermany.slack.com/archives/C017AUQHKDX)
-  - Join channel to be auto-matched in four-way chats once a week.
+  - Join channel to be auto-matched in four-way chats once a week. You will be asked every Friday if you want to participate on Monday.
