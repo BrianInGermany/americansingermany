@@ -25,3 +25,6 @@
 - [#offenbach](https://americansingermany.slack.com/archives/C016RQGS8K0)
 - [#mainz](https://americansingermany.slack.com/archives/C016XBUNH43)
 - [#main-taunus-kreis](https://americansingermany.slack.com/archives/C01J4HNFFB9)
+
+### Get auto-matched in 4-way chats once a week
+- [#chat-roulette](https://americansingermany.slack.com/archives/C017AUQHKDX)
