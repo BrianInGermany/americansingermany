@@ -26,5 +26,6 @@
 - [#mainz](https://americansingermany.slack.com/archives/C016XBUNH43)
 - [#main-taunus-kreis](https://americansingermany.slack.com/archives/C01J4HNFFB9)
 
-### Get auto-matched in four-way chats once a week
+### Others
 - [#chat-roulette](https://americansingermany.slack.com/archives/C017AUQHKDX)
+  - Join channel to be auto-matched in four-way chats once a week.
