@@ -19,6 +19,7 @@
 - [#berlin](https://americansingermany.slack.com/archives/C017LSARPS4)
 - [#hamburg](https://americansingermany.slack.com/archives/C01AUL0DU0Z)
 - [#munich](https://americansingermany.slack.com/archives/C01KE23P20G)
+- [#cologne](https://americansingermany.slack.com/archives/C01KGDENPUN)
 - [#wiesbaden](https://americansingermany.slack.com/archives/C017MMG02UC)
 - [#darmstadt](https://americansingermany.slack.com/archives/C016FBS517U)
 - [#offenbach](https://americansingermany.slack.com/archives/C016RQGS8K0)
