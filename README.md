@@ -1,23 +1,22 @@
 ## Welcome Americans and Friends!
 
-**Go to <a href="http://join.americansingermany.club">http://join.americansingermany.club</a> to hang out with Americans online in Slack!**
+**Go to <a href="http://join.americansingermany.club">http://join.americansingermany.club</a> to hang out with Americans online and in your area!**
 
 We are currently a "klein aber fein" collection of around 100 folks, and we're growing by the day! We are organized on [Slack](http://slack.americansingermany.club). Our core user base is currently Rhein-Main (Frankfurt and surroundings), but we have folks in Berlin, Hamburg and elsewhere.
 
-Meet new friends and join group chats about [topics you're interested in](https://americansingermany.club/channel_list), or for your own local area!
+Meet new friends and join group chats about topics you're interested in, or for your own local area! 
 
 **What is Slack?**
 
-For those who have never used it, Slack is an messaging app for smartphone and computer that combines the spontaneity of a WhatsApp or Facebook group with the organizational advantages of a forum.
+For those who have never used it, Slack is an messaging app for smartphone and computer that combines the spontaneity of a WhatsApp or Facebook group with the organizational advantages of a forum. All members are added to the #general channel on joining, and there are subchannels for topic-specific conversations. Here is a [list of our current channels](https://americansingermany.club/channel_list).
 
 - If you need to get your bearings, try this [Slack how-to](https://www.digitaltrends.com/computing/how-to-use-slack/)!
 
 
-**Here is a quick summary of how this Slack works:**
-- Sign up for an account on this Slack via the join link at the top of the page.
+**Here is a quick summary of how our Slack works:**
+- Sign up for an account via the join link at the top of the page.
 - Post a hello message in the #general channel to introduce yourself.
-- Browse the channels on the left, and think about joining for individual cities, like #berlin, or topics, like #beer. See [this directory](https://americansingermany.club/channel_list) for a list of all channels, or explore them within Slack!
-- The main conversation goes on in #general.
+- Browse the channels on the left pane, and think about joining for individual cities, like #berlin, or topics, like #beer-banter!
 - Tip: there are also desktop apps for [windows](https://slack.com/downloads/windows), [mac](https://slack.com/downloads/mac) and [linux](https://slack.com/downloads/linux)
 - Tip: if you want to meet folks fast, join the #chat-roulette channel, and be randomly matched in 4-way chats once a week.
   
