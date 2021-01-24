@@ -17,6 +17,7 @@
 - [#buy-sell-give](https://americansingermany.slack.com/archives/C01L1UEE0AV)
 - [#show-and-tell](https://americansingermany.slack.com/archives/C01KGGH0KHU)
   - Share your creative endeavors, projects, blogs, etc.
+- [#education-uni-ausbildung-etc](https://americansingermany.slack.com/archives/C01KVNUR69J)
   
 ### Location Channels
 - [#frankfurt](https://americansingermany.slack.com/archives/C016E0TAZHT)
