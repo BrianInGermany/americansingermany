@@ -7,6 +7,7 @@ We are currently a "klein aber fein" collection of around 100 folks, and we're g
 Meet new friends and join group chats about [topics you're interested in](https://americansingermany.club/channel_list), or for your own local area!
 
 **What is Slack?**
+
 For those who have never used it, Slack is an messaging app for smartphone and computer that combines the spontaneity of a WhatsApp or Facebook group with the organizational advantages of a forum.
 
 - If you need to get your bearings, try this [Slack how-to](https://www.digitaltrends.com/computing/how-to-use-slack/)!
