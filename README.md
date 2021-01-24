@@ -2,13 +2,13 @@
 
 **Go to <a href="http://join.americansingermany.club">http://join.americansingermany.club</a> to hang out with like-minded Americans in our online community!**
 
-We are currently a "klein aber fein" collection of around 100 folks, and we're growing by the day! We are organized on [Slack](http://slack.americansingermany.club). Our core user base is currently Rhein-Main (Frankfurt and surroundings), but we have folks in Berlin, Hamburg and elsewhere.
+We are currently a "klein aber fein" collection of around 120 folks, and we're growing by the day. We are organized on [Slack](http://slack.americansingermany.club). Our core user base is currently Rhein-Main (Frankfurt and surroundings), but we have folks in Berlin, Hamburg and elsewhere.
 
 Meet new friends and join group chats about topics you're interested in, or for your own local area! 
 
 **What is Slack?**
 
-If you've never used it, Slack is an messaging app for smartphone and computer that combines the spontaneity of a WhatsApp or Facebook group with the organizational advantages of a forum. All members are added to the #general channel on joining, and there are subchannels for topic-specific conversations. Here is a [list of our current channels](https://americansingermany.club/channel_list).
+If you've never used it, Slack is an messaging app for smartphone and computer that combines the spontaneity of a WhatsApp or Facebook group with the organizational advantages of a forum. All members are added to the #general channel on joining, and there are subchannels for topic-specific conversations and for local areas. Here is a [list of our current channels](https://americansingermany.club/channel_list).
 
 - If you need to get your bearings, try this [Slack how-to](https://www.digitaltrends.com/computing/how-to-use-slack/)!
 
