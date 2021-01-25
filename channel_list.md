@@ -4,7 +4,7 @@
 
 ### Topic Channels
 - [#tech-talk](https://americansingermany.slack.com/archives/C01K0GLDXHA)
-- [#homeownership](https://americansingermany.slack.com/archives/C01K0BFR7D2)
+- [#homeownership-and-renting](https://americansingermany.slack.com/archives/C01K0BFR7D2)
 - [#german-tax-and-financials](https://americansingermany.slack.com/archives/C01K3S7JUDS)
 - [#us-tax-and-financials](https://americansingermany.slack.com/archives/C01KMGR1NGY)
 - [#immigration-etc](https://americansingermany.slack.com/archives/C01JUJSTEE9)
@@ -18,7 +18,7 @@
 - [#show-and-tell](https://americansingermany.slack.com/archives/C01KGGH0KHU)
   - Share your creative endeavors, projects, blogs, etc.
 - [#education-uni-ausbildung-etc](https://americansingermany.slack.com/archives/C01KVNUR69J)
-- [#rules](https://americansingermany.slack.com/archives/C01LEPKF664)
+- [#rules-and-intro](https://americansingermany.slack.com/archives/C01LEPKF664)
   
 ### Location Channels
 - [#frankfurt](https://americansingermany.slack.com/archives/C016E0TAZHT)
