@@ -22,7 +22,7 @@ If you've never used it, Slack is a messaging app for smartphone and computer th
   
 **Community Rules:**
 1. Use your common sense.
-2. No Trump fans (see rule number 1).
+2. No conspiracy theories (see rule number 1).
 
 **See you in Slack!**
 
