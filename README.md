@@ -22,7 +22,7 @@ If you've never used it, Slack is a messaging app for smartphone and computer th
   
 **Community Rules:**
 1. Use your common sense.
-2. Check out #rules channel for any questions
+2. Check out #rules channel for details and any questions
 
 **See you in Slack!**
 
