@@ -18,6 +18,7 @@
 - [#show-and-tell](https://americansingermany.slack.com/archives/C01KGGH0KHU)
   - Share your creative endeavors, projects, blogs, etc.
 - [#education-uni-ausbildung-etc](https://americansingermany.slack.com/archives/C01KVNUR69J)
+- [#rules](https://americansingermany.slack.com/archives/C01LEPKF664)
   
 ### Location Channels
 - [#frankfurt](https://americansingermany.slack.com/archives/C016E0TAZHT)
