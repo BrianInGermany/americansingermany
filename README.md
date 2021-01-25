@@ -13,7 +13,7 @@ If you've never used it, Slack is a messaging app for smartphone and computer th
 - If you need to get your bearings, try this [Slack how-to](https://www.digitaltrends.com/computing/how-to-use-slack/)!
 
 
-**Here is a quick summary of how our Slack works:**
+**Here is a quick summary of how our group works:**
 - Sign up for an account via the join link at the top of the page.
 - Post a hello message in the #general channel to introduce yourself.
 - Browse the channels on the left pane, and join any topics you're into, or ask for one to be created.
