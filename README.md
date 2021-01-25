@@ -2,9 +2,9 @@
 
 **Go to <a href="http://join.americansingermany.club">http://join.americansingermany.club</a> to hang out with like-minded Americans in our online community!**
 
-We're currently a "klein aber fein" collection of around 120 folks organized on Slack, growing by the day. Our core user base is currently Rhein-Main (Frankfurt and surroundings), but we have folks in Berlin, Hamburg and elsewhere.
+We're currently a "klein aber fein" collection of around 120 folks organized on Slack, growing by the day. Our members from across the country post on a pleasant variety of expat-related topics in our main chat as well as our many channels for topics and locations.
 
-Meet new friends and join group chats about topics you're interested in, or for your own local area! 
+Meet new friends and join group chats about topics you're interested in, like #immigration-etc, or for your own local area, like #berlin! 
 
 **What is Slack?**
 
@@ -16,7 +16,7 @@ If you've never used it, Slack is a messaging app for smartphone and computer th
 **Here is a quick summary of how our Slack works:**
 - Sign up for an account via the join link at the top of the page.
 - Post a hello message in the #general channel to introduce yourself.
-- Browse the channels on the left pane, and think about joining for individual cities, like #berlin, or topics, like #immigration-etc!
+- Browse the channels on the left pane, and join any topics you're into, or ask for one to be created.
 - Tip: there are also desktop apps for [windows](https://slack.com/downloads/windows), [mac](https://slack.com/downloads/mac) and [linux](https://slack.com/downloads/linux)
 - Tip: if you want to meet folks fast, join the #chat-roulette channel, and be randomly matched in 4-way chats once a week.
   
