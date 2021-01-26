@@ -1,6 +1,6 @@
 ## Welcome Americans and Friends!
 
-**Go to <a href="http://join.americansingermany.club">http://join.americansingermany.club</a> to hang out with fellow Amis in our online community!**
+**Go to <a href="http://join.americansingermany.club">http://join.americansingermany.club</a> to socialize with fellow Amis in our online community!**
 
 We're currently a "klein aber fein" collection of around 120 folks organized on Slack, growing by the day. Our members from across the country post on a variety of expat-related topics in our main chat as well as our many channels for topics and locations.
 
