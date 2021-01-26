@@ -21,7 +21,7 @@ If you've never used it, Slack is a messaging app for smartphone and computer th
 - Tip: if you want to meet folks fast, join the #chat-roulette channel, and be randomly matched in 4-way chats once a week.
   
 **Community Rules:**
-1. Use your common sense.
+1. Use your common sense and treat each other with respect.
 2. Check out #rules channel for details, questions or suggestions
 
 **See you in Slack!**
