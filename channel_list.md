@@ -19,7 +19,8 @@
   - Share your creative endeavors, projects, blogs, etc.
 - [#education-uni-ausbildung-etc](https://americansingermany.slack.com/archives/C01KVNUR69J)
 - [#rules-and-intro](https://americansingermany.slack.com/archives/C01LEPKF664)
-  
+- [#jobs](https://americansingermany.slack.com/archives/C01L8HX6E0Z)  
+
 ### Location Channels
 - [#frankfurt](https://americansingermany.slack.com/archives/C016E0TAZHT)
 - [#berlin](https://americansingermany.slack.com/archives/C017LSARPS4)
@@ -31,6 +32,8 @@
 - [#offenbach](https://americansingermany.slack.com/archives/C016RQGS8K0)
 - [#mainz](https://americansingermany.slack.com/archives/C016XBUNH43)
 - [#main-taunus-kreis](https://americansingermany.slack.com/archives/C01J4HNFFB9)
+- [#aachen](https://americansingermany.slack.com/archives/C01LEPE145N)
+- [#stateside](https://americansingermany.slack.com/archives/C01LKU88Z32)
 
 ### Other Channels
 - [#chat-roulette](https://americansingermany.slack.com/archives/C017AUQHKDX)
