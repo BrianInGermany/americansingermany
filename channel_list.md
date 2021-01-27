@@ -4,6 +4,7 @@
 
 ### Topic Channels
 - [#tech-talk](https://americansingermany.slack.com/archives/C01K0GLDXHA)
+- [#german-learning](https://americansingermany.slack.com/archives/C0167VABPHU)
 - [#homeownership-and-renting](https://americansingermany.slack.com/archives/C01K0BFR7D2)
 - [#german-tax-and-financials](https://americansingermany.slack.com/archives/C01K3S7JUDS)
 - [#us-tax-and-financials](https://americansingermany.slack.com/archives/C01KMGR1NGY)
