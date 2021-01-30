@@ -14,7 +14,7 @@ If you've never used it, Slack is a messaging app for smartphone and computer th
 
 
 **Here is a quick summary of how our group works:**
-- If on mobile: [install slack](http://join.americansingermany.club)
+- If on mobile: sorry, to [create an account](http://join.americansingermany.club) first. you need to be on a PC. From then on you can use the mobile app. 
 - Sign up for an account via the join link at the top of the page (or just click the above link again)
 - Post a hello message in the #general channel to introduce yourself.
 - Browse the channels on the left pane, and join any topics you're into, or ask for one to be created.
