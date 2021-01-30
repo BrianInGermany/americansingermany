@@ -14,7 +14,7 @@ If you've never used it, Slack is a messaging app for smartphone and computer th
 
 
 **Here is a quick summary of how our group works:**
-- **If on mobile: sorry, to create an account, you must be on a computer. From then on you can use the mobile app.** 
+- If on mobile: sorry, to create an account, you _must be on a computer_. From then on you can use the mobile app, desktop app, or browser.
 - Once you're logged in:
   - Post a hello message in the #general channel to introduce yourself.
   - Browse the channels on the left pane, and join any topics you're into, or ask for one to be created.
