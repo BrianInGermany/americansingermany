@@ -1,6 +1,23 @@
 ## Welcome Americans and Friends!
 
-**Go to <a href="http://join.americansingermany.club">http://join.americansingermany.club</a> _on a computer_ to socialize with fellow Amis in our active online community (once you create an account on the computer, you can login on mobile)!**
+
+<div id="CommunityInviter"></div>
+<script>
+  window.CommunityInviterAsyncInit = function () {
+    CommunityInviter.init({
+      app_url:'americans-in-germany',
+      team_id:'americansingermany'
+   })
+  };
+
+  (function(d, s, id){
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement(s); js.id = id;
+    js.src = "https://communityinviter.com/js/communityinviter.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'Community_Inviter'));
+</script>
 
 We're currently a "klein aber fein" collection of around 130 folks organized on Slack, growing by the day. Our members from across the country post on a variety of expat-related topics in our main chat, as well as our many channels for topics and locations.
 
