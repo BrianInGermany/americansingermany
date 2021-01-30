@@ -2,7 +2,7 @@
 
 **Go to <a href="http://join.americansingermany.club">http://join.americansingermany.club</a> to socialize with fellow Amis in our active online community!**
 
-We're currently a "klein aber fein" collection of around 120 folks organized on Slack, growing by the day. Our members from across the country post on a variety of expat-related topics in our main chat, as well as our many channels for topics and locations.
+We're currently a "klein aber fein" collection of around 130 folks organized on Slack, growing by the day. Our members from across the country post on a variety of expat-related topics in our main chat, as well as our many channels for topics and locations.
 
 Meet new friends, and join group chats for topics you're interested in, like #homeownership-and-renting, or for your own local area, like #frankfurt! 
 
