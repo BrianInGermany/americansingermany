@@ -1,6 +1,6 @@
 ## Welcome Americans and Friends!
 
-**Come join the conversation!**
+**Join the conversation**
 
 We're currently a "klein aber fein" collection of around 130 folks organized on Slack, growing by the day. Our members from across the country post on a variety of expat-related topics in our main chat, as well as our many channels for topics and locations.
 
