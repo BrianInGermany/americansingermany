@@ -33,7 +33,7 @@ If you've never used it, Slack is a messaging app for smartphone and computer th
 
 **Here is a quick summary of how our group works:**
 - Sign up to get an email invite, then create an account.
-- [Download Slack for your device](https://slack.com/downloads/) and sign in with your login.
+- [Download Slack for your device](https://slack.com/downloads/) and sign in with your account.
 - Post a hello message in the #general channel to introduce yourself.
 - Browse the channels on the left pane, and join any topics you're into, or ask for one to be created.
 - Tip: if you want to meet folks fast, join the #chat-roulette channel, and be randomly matched in 4-way chats once a week.
