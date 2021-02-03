@@ -22,6 +22,7 @@
 - [#rules-and-intro](https://americansingermany.slack.com/archives/C01LEPKF664)
 - [#jobs](https://americansingermany.slack.com/archives/C01L8HX6E0Z)  
 - [#sports](https://americansingermany.slack.com/archives/C01LD03C6P9)
+- [#high-quality-memes](https://americansingermany.slack.com/archives/C01LW9NC15H)
 ### Location Channels
 - [#frankfurt](https://americansingermany.slack.com/archives/C016E0TAZHT)
 - [#berlin](https://americansingermany.slack.com/archives/C017LSARPS4)
