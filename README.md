@@ -24,6 +24,8 @@ Meet new friends, and join group chats for topics you're interested in, like #ho
   }(document, 'script', 'Community_Inviter'));
 </script>
 
+Or [login here](https://americansingermany.slack.com)
+
 **What is Slack?**
 
 If you've never used it, Slack is a messaging app for smartphone and computer that combines the spontaneity of a WhatsApp or Facebook group with the organizational advantages of a forum. All members are added to the #general channel on joining, and there are subchannels for topic-specific conversations and for local areas. Here is a [list of our current channels](https://americansingermany.club/channel_list).
