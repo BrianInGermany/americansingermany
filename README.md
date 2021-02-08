@@ -46,7 +46,7 @@ If you've never used it, Slack is a messaging app for smartphone and computer th
 
 **See you in Slack!**
 
-<img src="/logoFlag.png" alt="flag" width="100%">
+<img src="/logoFlagGerman.png" alt="flag" width="100%">
 
 <!-- ## Meetup Calendar
 
