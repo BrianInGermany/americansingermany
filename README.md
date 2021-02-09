@@ -1,4 +1,4 @@
-## Welcome!
+## Welcome Americans and Friends
 
 **Join the conversation!**
 
