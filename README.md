@@ -10,7 +10,7 @@ Meet new friends, and join group chats for topics you're interested in, like #ho
 <script>
   window.CommunityInviterAsyncInit = function () {
     CommunityInviter.init({
-      app_url:'americans-in-germany',
+      app_url:'americansingermany',
       team_id:'americansingermany'
    })
   };
