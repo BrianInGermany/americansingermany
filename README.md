@@ -58,7 +58,7 @@ If you've never used it, Slack is a messaging app for smartphone and computer th
         iframeContainerId: 'eventbrite-widget-container-141582756837',
 
         // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        iframeContainerHeight: 600,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
