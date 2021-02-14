@@ -39,34 +39,14 @@ If you've never used it, Slack is a messaging app for smartphone and computer th
 - Post a hello message in the #general channel to introduce yourself.
 - Browse the channels on the left pane, and join any topics you're into, or ask for one to be created.
 - Tip: if you want to meet folks fast, join the #chat-roulette channel, and be randomly matched in 4-way chats once a week.
-  
-**Upcoming Events:**
-
-<div id="eventbrite-widget-container-141582756837"></div>
-
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '141582756837',
-        iframeContainerId: 'eventbrite-widget-container-141582756837',
-
-        // Optional
-        iframeContainerHeight: 600,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-</script>
 
 **See you soon!**
 
 <img src="/logoFlagGerman.png" alt="flag" width="100%">
 
+**Upcoming Events:**
+
+<div style="width:195px; text-align:center;" ><iframe  src="https://www.eventbrite.com/calendar-widget?eid=141582756837" frameborder="0" height="480" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:195px; text-align:center;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/">Powered by Eventbrite</a></div></div>
 <!-- ## Meetup Calendar
 
 <iframe id="open-web-calendar" 
