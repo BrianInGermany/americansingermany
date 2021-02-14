@@ -40,11 +40,30 @@ If you've never used it, Slack is a messaging app for smartphone and computer th
 - Browse the channels on the left pane, and join any topics you're into, or ask for one to be created.
 - Tip: if you want to meet folks fast, join the #chat-roulette channel, and be randomly matched in 4-way chats once a week.
   
-**Community Rules:**
-1. Use your common sense and have fun!
-2. Check out #rules channel for details, questions or suggestions
+**Upcoming Events:**
 
-**See you in Slack!**
+<div id="eventbrite-widget-container-141582756837"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '141582756837',
+        iframeContainerId: 'eventbrite-widget-container-141582756837',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
+
+**See you soon!**
 
 <img src="/logoFlagGerman.png" alt="flag" width="100%">
 
