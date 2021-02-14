@@ -45,12 +45,4 @@ If you've never used it, Slack is a messaging app for smartphone and computer th
 
 **Upcoming Events:**
 
-<div style="width:100%; text-align:center;" ><iframe  src="https://www.eventbrite.com/calendar-widget?eid=141582756837" frameborder="0" height="480" width="100%" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:center;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/">Powered by Eventbrite</a></div></div>
-<!-- ## Meetup Calendar
-
-<iframe id="open-web-calendar" 
-    style="background:url('https://raw.githubusercontent.com/niccokunzmann/open-web-calendar/master/static/img/loaders/circular-loader.gif') center center no-repeat;"
-    src="https://open-web-calendar.herokuapp.com/calendar.html?url=https%3A%2F%2Fwww.meetup.com%2FAmericans-in-Germany%2Fevents%2Fical%2F&amp;title=Event%20Calendar&amp;target=_blank&amp;controls=next&amp;controls=previous&amp;controls=date"
-    sandbox="allow-scripts allow-same-origin allow-popups"
-    allowTransparency="true" scrolling="no" 
-    frameborder="0" height="600px" width="100%"></iframe> -->
+<div style="width:195px; text-align:center;" ><iframe  src="https://www.eventbrite.com/countdown-widget?eid=141582756837" frameborder="0" height="394" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:195px; text-align:center;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/">Powered by Eventbrite</a></div></div>
