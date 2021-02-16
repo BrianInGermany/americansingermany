@@ -45,24 +45,4 @@ If you've never used it, Slack is a messaging app for smartphone and computer th
 
 **Upcoming Events:**
 
-<!-- <div style="width:100%; text-align:center;" ><iframe  src="https://www.eventbrite.com/countdown-widget?eid=141582756837" frameborder="0" height="394" width="100%" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe></div> -->
-<div id="eventbrite-widget-container-141582756837"></div>
-
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '141582756837',
-        iframeContainerId: 'eventbrite-widget-container-141582756837',
-
-        // Optional
-        iframeContainerHeight: 300,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-</script>
+<div style="width:195px; text-align:center;" ><iframe  src="https://www.eventbrite.com/calendar-widget?eid=141582756837" frameborder="0" height="480" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:195px; text-align:center;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/">Powered by Eventbrite</a></div></div>
