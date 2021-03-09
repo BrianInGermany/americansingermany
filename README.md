@@ -24,7 +24,7 @@ Meet new friends, and join group chats for topics you're interested in, like #fo
   }(document, 'script', 'Community_Inviter'));
 </script>
 
-Or [login here](https://americansingermany.slack.com)
+Or [login here](https://americancultureclub.slack.com)
 
 **What is Slack?**
 
