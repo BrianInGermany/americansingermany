@@ -11,7 +11,7 @@ Meet new friends, and join group chats for topics you're interested in, like #fo
   window.CommunityInviterAsyncInit = function () {
     CommunityInviter.init({
       app_url:'americancultureclub',
-      team_id:'americansingermany'
+      team_id:'americancultureclub'
    })
   };
 
