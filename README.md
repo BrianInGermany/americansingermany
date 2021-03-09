@@ -10,7 +10,7 @@ Meet new friends, and join group chats for topics you're interested in, like #fo
 <script>
   window.CommunityInviterAsyncInit = function () {
     CommunityInviter.init({
-      app_url:'americansingermany',
+      app_url:'americancultureclub',
       team_id:'americansingermany'
    })
   };
