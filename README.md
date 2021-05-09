@@ -47,6 +47,6 @@ If you've never used it, Slack is a messaging app for smartphone and computer th
 
 **Upcoming Events**
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FBerlin&amp;src=Y3UzdGU0aXVhNmhhcmU5bTJobjRncmIyaW5idm80MmRAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23C0CA33&amp;showTitle=0" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FBerlin&amp;src=Y3UzdGU0aXVhNmhhcmU5bTJobjRncmIyaW5idm80MmRAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23C0CA33&amp;showTitle=0" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
 <!-- <div style="width:195px; text-align:center;" ><iframe  src="https://www.eventbrite.com/calendar-widget?eid=145123096087" frameborder="0" height="480" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:195px; text-align:center;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/">Powered by Eventbrite</a></div></div> -->
