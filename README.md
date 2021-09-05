@@ -6,12 +6,13 @@ We're currently an active group of around 200 folks organized on Slack, growing 
 
 Meet new friends, and join group chats for topics you're interested in, like #foodies, or for your own local area, like #frankfurt! 
 
+
 <div id="CommunityInviter"></div>
 <script>
   window.CommunityInviterAsyncInit = function () {
     CommunityInviter.init({
-      app_url:'americancultureclub2',
-      team_id:'americansingermany'
+      app_url:'accinvite',
+      team_id:'americancultureclub'
    })
   };
 
